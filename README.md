@@ -1,1 +1,3 @@
 # system-monitor-githubactions
+
+Adding a pipeline script that triggers auotmatically when changes are pushed to main
